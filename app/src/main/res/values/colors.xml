@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2bd667</color>
+    <color name="colorPrimaryDark">#1dd144</color>
+    <color name="colorAccent">#31e9f2</color>
+    <color name="colorProgress">#a7535353</color>
+    <color name="colortxt">#d4232222</color>>
+    <color name="appbg">#eaffffff</color>
+    <color name="btnbg">#b6b6b6</color>
+    <color name="hnt">#dd9e9e9e</color>
+</resources>
+,
+

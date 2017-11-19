@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "275227397394",
+    "firebase_url": "https://droidheal-3de1c.firebaseio.com",
+    "project_id": "droidheal-3de1c",
+    "storage_bucket": "droidheal-3de1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275227397394:android:213bcad6c399ba1f",
+        "android_client_info": {
+          "package_name": "com.droid.medic.droidheal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275227397394-8fl9qhq4dn2ums5kpjligrni5g5bssqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droid.medic.droidheal",
+            "certificate_hash": "2babfec63e4caeeffcbce7bfbb2d07199ee0b377"
+          }
+        },
+        {
+          "client_id": "275227397394-4mkd0mub04f3n5m1fl80lm29r0kje5ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTIzBJMI9FHk5ptMh0AeOKYgrijeRWuOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275227397394-4mkd0mub04f3n5m1fl80lm29r0kje5ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
